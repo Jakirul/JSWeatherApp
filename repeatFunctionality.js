@@ -30,7 +30,7 @@ export const weatherDescription = (data, description) => {
       image('https://cdn.pixabay.com/photo/2016/06/03/00/09/winter-1432536_960_720.jpg', data);
     } else if (description.includes("thunderstorm")) {
       img.src = "http://openweathermap.org/img/wn/11d@2x.png";
-      image('https://e3.365dm.com/18/05/2048x1152/skynews-weather-storm-lightening_4321617.jpg', data);
+      image('https://media.blogto.com/articles/14966208170_3d43d9f18f_o.jpg?w=2048&cmd=resize_then_crop&height=1365&quality=70', data);
     }
     else if (description.includes("drizzle")) {
       img.src = "http://openweathermap.org/img/wn/09d@2x.png";
