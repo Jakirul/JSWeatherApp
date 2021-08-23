@@ -10,5 +10,5 @@ A Weather App using Vanilla JavaScript and the OpenWeatherMap API
 https://vibrant-fermat-2fbc5f.netlify.app/
 
 ## Image Preview
-![image preview](https://i.gyazo.com/2726405063a1121397dcf6794adaf190.jpg)
+![image preview](https://i.gyazo.com/eb19cf3446db888e2a1ec8a237212b0e.jpg)
 
